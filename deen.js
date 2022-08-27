@@ -99,17 +99,15 @@ let questions = [
 
 let next = document.getElementById('next');
 let myQuestions = null;
+
+let next = document.getElementById('next');
+let myQuestions = null;
 next.onclick = (e) => {
   e.preventDefault();
-
-  if (myQuestions == null) {
-    let arrLen = questions.length;
-    let randomNum = Math.floor(Math.random() * arrLen);
-    myQuestions = questions.filter(({ id }) => id != randomNum);
+  let myQuestion = questions.shuffle.pop();
+  if (myQuestion) {
+    console.log(myQuestion);
   } else {
-    let arrLen = myQuestions.length;
-    let randomNum = Math.floor(Math.random() * arrLen);
-    myQuestions = myQuestions.filter(({ id }) => id != randomNum);
+    console.log('Finished');
   }
-  console.log(myQuestions.length);
 };
