@@ -1,0 +1,44 @@
+The Quiz
+
+Every year at Lumen et Veritas International Academy a quiz competition is held on the 1 of October.
+In the light of this friendship quiz competition, different schools have to register their candidates in order to partake in the competition. Due to the manual registration done at the school, some schools could make late registration and would still go on to partake in the competition, and some are not captured at all.
+This was one of the first issues faced by the organisers of the program, and the other is the question and answer for the quiz. Because of the need to make many questions and answers available, some questions are mixed up with other answers.
+
+To tackle all these issues, the school has tasked you as a developer with the job to create a system that would allow them to do these things conveniently. And for this to be achieved, the following has to be done.
+
+1.Schools Interested in the competition should be made to sign up and register their candidates for the competition.
+
+2.Registration deadline should be displayed on the page, and when the date of valid entry is passed, interested schools should be made to pay a fine of N5,000 before they can indicate interest.
+
+3.The system should be made to display the lists of all the winners on the system from previous years.
+
+4.The system should be able to create questions and the correct answer also needs to be stored alongside.
+5.The system should be made to allow these questions to be shuffled at random anytime students are to answer the question.
+6.The next question appears immediately after you have submitted the current one.
+7.The system should be able to save the names of the school who wins the quiz
+8.The time is limited as student has 2 minutes to answer 10 questions when the time is up for each student, the percentage result of each student is to be displayed as:
+
+Martin-K Academy , Israel Elbar, 45%
+Veritas Academy, Miles Brown, 65%
+Holmes Academy, Sherlock Holmes, 89%
+
+9.The name and school of the winners should be displayed in a Modal with a short congratulatory message.
+
+Note: You are to factor the 1 of October scenario while building the project because, the school intent to use
+
+Things needed for the work
+-localstorage
+-timers
+-date
+-array
+-functions
+-sound logic
+
+Things to test.
+1. Working with Timers
+2. Working with localstorage
+3. Working with functions
+4. Working with objects and arrays.
+5. Working with arithmetic operations
+
+

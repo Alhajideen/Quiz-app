@@ -1,0 +1,96 @@
+{
+  "students": [
+    {
+      "student_name": "Onoja Victor",
+      "student_gender": "male",
+      "student_age": "25",
+      "student_school": "",
+      "student_email": "onojavoo@gmail.com",
+      "student_password": "none",
+      "id": 1
+    },
+    {
+      "student_name": "John Doe",
+      "student_gender": "male",
+      "student_age": "23",
+      "student_school": "6",
+      "student_email": "john@doe.com",
+      "student_password": "john",
+      "id": 2
+    },
+    {
+      "student_name": "Deen",
+      "student_gender": "female",
+      "student_age": "24",
+      "student_school": "2",
+      "student_email": "deen@gjjj.com",
+      "student_password": "123",
+      "id": 3
+    },
+    {
+      "student_name": "Samson Joel",
+      "student_gender": "male",
+      "student_age": "34",
+      "student_school": "0",
+      "student_email": "onojavoic@gmail.com",
+      "student_password": "samson",
+      "id": 4
+    }
+  ],
+  "schools": [
+    {
+      "school_name": "Rework Academy",
+      "school_address": "Aknanton Estate, Durumi, Abuja",
+      "school_email": "reworkacademy.edu.ng",
+      "id": 1
+    },
+    {
+      "school_name": "Rework Kiddies",
+      "school_address": "Aknanton Estate, Durumi, Abuja",
+      "school_email": "reworkkiddies.edu.ng",
+      "id": 2
+    },
+    {
+      "school_name": "Federal Government College Ugwolawo",
+      "school_address": "Ugwolawo, Ofu LGA, Kogi State",
+      "school_email": "contact@fgcu.edu.ng",
+      "id": 3
+    },
+    {
+      "school_name": "First Age Private Schools",
+      "school_address": "Army Scheme, Kubwa, Abuja",
+      "school_email": "firstage@gmail.com",
+      "id": 4
+    },
+    {
+      "school_name": "Queen Premier Academy",
+      "school_address": "Virtual ",
+      "school_email": "contact@queenpremier.edu.ng",
+      "id": 5
+    },
+    {
+      "school_name": "New School",
+      "school_address": "no address",
+      "school_email": "none@gmail.com",
+      "id": 6
+    },
+    {
+      "school_name": "College of Health",
+      "school_address": "Ogbadibo",
+      "school_email": "coh@gmail.com",
+      "id": 7
+    },
+    {
+      "school_name": "Tech Spot Education",
+      "school_address": "Silicon Valley, Abuja",
+      "school_email": "tech@spotties.com",
+      "id": 8
+    },
+    {
+      "school_name": "",
+      "school_address": "",
+      "school_email": "",
+      "id": 9
+    }
+  ]
+}
